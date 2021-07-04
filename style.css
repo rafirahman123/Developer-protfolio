@@ -68,13 +68,13 @@ h1{
 
 #font-end{
     border-left: 7px solid;
-    background-image:  linear-gradient(blue , cyan);
+    border-image:  linear-gradient(blue , cyan);
     border-image-slice: 1;
 }
 
 #full-stack{
     border-left: 7px solid;
-    background-image:  linear-gradient(purple,red);
+    border-image:  linear-gradient(purple,red);
     border-image-slice: 1;
 }
 
